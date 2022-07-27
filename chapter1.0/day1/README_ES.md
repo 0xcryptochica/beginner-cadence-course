@@ -1,4 +1,4 @@
-# Capítulo 1 Dia 1 - Aprender Conceptos de Blockchain
+# Capítulo 1 - Dia 1 - Aprender Conceptos de Blockchain
 
 ¡Hola! Si, soy yo. Tu desarrollador favorito de todo el tiempo, Jacob. Actualmente estás viendo el primer día de todo el curso. Comencemos este viaje juntos. 
 
