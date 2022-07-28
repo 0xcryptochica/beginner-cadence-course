@@ -1,6 +1,6 @@
 # Capítulo 2 - Día 1 - Nuestro Primero Smart Contract
 
-¡Hola personas bonitas! Bienvenidos al capítulo glorioso 2, en cual vamos a empezar con algunos ejemplos de código de Cadence. 
+¡Hola personas bonitas! Bienvenidos al capítulo glorioso 2, en cúal vamos a empezar con algunos ejemplos de código de Cadence. 
 
 Hoy, vamos a aprender los muy básicos de código de Cadence, mediante la implementación de nuestro primer Smart Contract. Eso es, como declarar una variable, cómo escribir una función, etc. 
 
