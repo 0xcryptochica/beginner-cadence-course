@@ -8,23 +8,23 @@ Hoy, vamos a aprender los muy básicos de código de Cadence, mediante la implem
 
 Si quieres algunos videos para ver, puedes verlo estas dos videos (ellos son muy similar): 
 
-https://www.youtube.com/watch?v=QbqNM4k76B0 (información general de smart contracts, cuentas, y desplegando nuestro primer contrato)
+1. https://www.youtube.com/watch?v=QbqNM4k76B0 (información general de smart contracts, cuentas, y desplegando nuestro primer contrato)
 
-https://www.youtube.com/watch?v=DSwNNOEdBXU (explicación detras algunos sintaxis basic + desplegando un contrato)  **NOTA**: Mira este video de 00:00 - 07:23. Nada más allá de las 07:23 no es cubierto en esta lección. 
+2. https://www.youtube.com/watch?v=DSwNNOEdBXU (explicación detras algunos sintaxis basic + desplegando un contrato)  **NOTA**: Mira este video de 00:00 - 07:23. Nada más allá de las 07:23 no es cubierto en esta lección. 
 
 ## Nuestro Primero Smart Contract
 
 *Antes de empezar, asegúrate de haber leído Capitulo 1, Dia 1. Ese día cubrirá todo lo que necesitas saber sobre Smart Contracts hasta este punto.*
 
 Para empezar haciendo nuestro primer Smart Contract, necesitamos encontrar un lugar para ponerlo realmente! Para hacerlo, lanza un navegador de tu elección (yo recomiendo Google Chrome), va a el Flow playground pegando este URL: https://play.onflow.org. Después de hacerlo, haga lo siguiente: 
-1. En el lado izquierdo, clic el ‘0x01’ pestaña
+1. En el lado izquierdo, haz clic el ‘0x01’ pestaña
 2. Borrar todo en eso página.
 
 Debe mirar como así:
 
 <img src="../images/blanksc.png" alt="drawing" size="400" />
 
-Lo que hemos hecho es hacer click en la cuenta con la dirección 0x01 y borramos el contrato en su cuenta. Eso trae un tema importante. 
+Lo que hemos hecho es hacer click en la cuenta con la dirección `0x01` y borramos el contrato en su cuenta. Eso trae un tema importante. 
 
 ## ¿Qué es una dirección de cuentas? 
 
